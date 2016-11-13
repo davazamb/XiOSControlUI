@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiOSControlUI", "XiOSControlUI\XiOSControlUI.csproj", "{B0CB7C41-02D5-4EDD-9E62-F5E6789EF62D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0CB7C41-02D5-4EDD-9E62-F5E6789EF62D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B0CB7C41-02D5-4EDD-9E62-F5E6789EF62D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B0CB7C41-02D5-4EDD-9E62-F5E6789EF62D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B0CB7C41-02D5-4EDD-9E62-F5E6789EF62D}.Release|iPhone.Build.0 = Release|iPhone
+		{B0CB7C41-02D5-4EDD-9E62-F5E6789EF62D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B0CB7C41-02D5-4EDD-9E62-F5E6789EF62D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B0CB7C41-02D5-4EDD-9E62-F5E6789EF62D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B0CB7C41-02D5-4EDD-9E62-F5E6789EF62D}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
